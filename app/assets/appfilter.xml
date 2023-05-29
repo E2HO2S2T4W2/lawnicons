@@ -4660,4 +4660,24 @@
   <item component="ComponentInfo{com.application.zomato/com.application.zomato.Splash}" drawable="zomoto" name="Zomoto" />
   <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom" name="Zoom" />
   <item component="ComponentInfo{at.oebb.ts/at.oebb.ts.SplashActivity}" drawable="oebb" name="ÖBB" />
+  <!--Additions-->
+  <item component="ComponentInfo{com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity}" drawable="qq_music" name="QQ Music" />
+  <item component="ComponentInfo{xyz.maona.lockoo/xyz.maona.lockoo.MainActivity}" drawable="one_key_lock" name="One Key Lock" />
+  <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity
+}" drawable="calendar_edited" name="Calendar Edited" />
+  <item component="ComponentInfo{com.smartisan.notes/com.smartisan.notes.NewNotesActivity
+}" drawable="hammer_note" name="Hammer Note" />
+  <item component="ComponentInfo{com.gzapp.volumeman/com.gzapp.volumeman.activities.MainActivity}" drawable="mr_volume" name="Mr Volume" />
+  <item component="ComponentInfo{com.duoqin.manager/com.duoqin.manager.activity.QinManagerActivity}" drawable="one_key_boost" name="One Key Boost" />
+  <item component="ComponentInfo{com.duoqin.qweather/com.duoqin.qweather.activity.WeathersActivity}" drawable="weather_edited" name="Weather Edited" />
+  <item component="ComponentInfo{com.midea.vm.washer/com.midea.vm.washer.ui.activity.IndexActivity}" drawable="unidays" name="UJing" />
+  <item component="ComponentInfo{com.lptiyu.tanke/com.lptiyu.tanke.activities.main.MainActivity}" drawable="road_running" name="Road Running" />
+  <item component="ComponentInfo{com.shanbay.sentence/com.shanbay.biz.account.user.bridge.BayLoginMainActivity}" drawable="pectinid_english" name="Pectinid English" />
+  <item component="ComponentInfo{com.baidu.tieba_mini/com.baidu.tieba.tblauncher.MainTabActivity}" drawable="tieba_lite" name="Tieba Lite" />
+  <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clocked_edited" name="Clock Edited" />
+  <item component="ComponentInfo{com.idaodan.clean.master/o.O000OooO}" drawable="leopard_clean" name="Leopard Clean" />
+  <item component="ComponentInfo{com.plan.kot32.tomatotime/com.plan.kot32.tomatotime.activity.MainActivity}" drawable="pomodorotodo" name="Pomodoro ToDO" />
+  <item component="ComponentInfo{com.happylabs.happymall/com.happylabs.happymall.MainActivity}" drawable="happy_mall" name="Happy Mall" />
+  <item component="ComponentInfo{com.duoqin.remote/com.duoqin.remote.activity.RemoteActivity}" drawable="qin_remoter" name="Qin Remoter" />
+
 </resources>
